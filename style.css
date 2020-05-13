@@ -1,0 +1,61 @@
+h1 {
+    color: #a89332;
+    text-align: center;
+    border: 5px solid #34ebeb;
+    background-color: #34e5eb;
+    border-color: white;
+    border-style: double;
+    padding: 20px;
+    
+}
+
+h3 {
+    text-align: center;
+    font-size: 25px;
+}
+
+h4 {
+    
+    color: #04697a;
+    border-color: white;
+    border-style: ridge;
+    background-color: #04cc57;
+    padding: 5px;
+    text-align: center;
+}
+
+
+div.box{
+    text-align: center;
+}
+
+div.isabelle {
+    text-align: center;
+}
+
+div.timmytommy {
+  text-align: center;
+  
+}
+
+div.blathers {
+    text-align: center;
+}
+
+div.abelsisters {
+    text-align: center;
+}
+
+div.dodo {
+    text-align: center;
+}
+
+div.animalcrossing {
+    text-align: center;
+}
+p {
+    color: black;
+    font-size: 18px;
+    padding: 5px;
+    
+}
